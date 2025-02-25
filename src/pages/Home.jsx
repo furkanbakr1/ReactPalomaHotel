@@ -7,7 +7,7 @@ import Navbar from '../components/Navbar';
 import BookingSection from '../components/BookingSection';
 import About from './About';
 import Rooms from './Rooms'
-import HomePageRestoran from './homePageRestoran';
+import HomePageRestoran from './HomePageRestoran';
 import HomePageRooms from './HomePageRooms';
 import HomePageSpa from './HomePageSpa';
 import HomePageActivites from './HomePageActivities';

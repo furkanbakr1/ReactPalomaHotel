@@ -99,17 +99,5 @@ git commit -m "Deploy update"
 git push origin main
 ```
 
-
-## 💡 **Sonuç**
-
-✅ **Frontend becerilerini göstermek için mükemmel bir örnek proje oluşturuldu!**
-✅ **İş başvurularında "Canlı Demo" linki ile gösterilebilir.**
-✅ **SEO ve performans optimizasyonları ile mükemmel hale getirildi.**
-✅ **React, Tailwind CSS ve Material UI ile modern bir UI oluşturuldu.**
-
-🎯 **Bundan sonraki adım:** Daha gelişmiş bir backend ekleyerek **tam kapsamlı bir otel rezervasyon sistemi** yapmak olabilir! 😎
-
----
-
 📌 **Furkan Bakır - Frontend Developer**
 📩 **furkanbakr1@gmail.com**
